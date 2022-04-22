@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-size: 110px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: -0.1em;
+    margin-bottom: 10px;
+}
+
+div{
+    text-align: center;
+    
+}
+input.searchbar{
+    background-image: url(https://image.shutterstock.com/image-vector/search-icon-sign-design-260nw-730234714.jpg);
+    background-size: 40px;
+    background-repeat: no-repeat;
+    padding:12px 12px 12px 40px;
+    border-radius: 20px;
+    /* background-image: url(https://iconape.com/wp-content/files/ac/180472/svg/180472.svg); */
+    
+    font-size: medium;
+}
+
+div.buttons{
+    margin:20px;
+}
+
+button.gs{
+    padding: 7px 10px 10px 10px;
+    margin:18px 30px 18px 18px ;
+    border: none;
+    
+}
+
+button.fl{
+    padding:7px 10px 10px 10px;
+    margin:18px 18px 18px 30px;
+    border: none;
+    
+    
+}    
+
